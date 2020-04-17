@@ -1,7 +1,6 @@
 {
   "name": "taskrunner",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
   "scripts": {
     "init-project": "npm install && npm-run-all init:*",
@@ -31,5 +30,14 @@
     "node-sass": "^4.11.0",
     "npm-run-all": "^4.1.5",
     "onchange": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czania/javascript-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Czania/javascript-blog/issues"
+  },
+  "homepage": "https://github.com/Czania/javascript-blog#readme",
+  "description": ""
 }
